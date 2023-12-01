@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **dahliamalkhi/dahliamalkhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 🔭 I’m currently working on ...
+### 🔭 I’m currently working on ...
 
 [Comparing BBCA-Chain with other DAG-based BFT protocols (WIP)](https://github.com/decentralizedthoughts/decentralizedthoughts.github.io/pull/14_)
