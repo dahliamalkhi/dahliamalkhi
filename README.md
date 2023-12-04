@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on ...
 
-[Comparing BBCA-Chain with other DAG-based BFT protocols (WIP)](https://github.com/decentralizedthoughts/decentralizedthoughts.github.io/pull/14_)
+[Comparing BBCA-Chain with other DAG-based BFT protocols (WIP)](https://github.com/decentralizedthoughts/decentralizedthoughts.github.io/pull/14)
